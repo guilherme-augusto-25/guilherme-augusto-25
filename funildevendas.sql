@@ -89,7 +89,7 @@ CREATE TABLE IF NOT EXISTS `usuarios` (
 --
 
 INSERT INTO `usuarios` (`id`, `nome`, `email`, `senha`, `situacoe_id`, `niveis_acesso_id`, `created`, `modified`) VALUES
-(1, 'Cesar Szpak', 'cesar@celke.com.br', '202cb962ac59075b964b07152d234b70', 1, 1, '2016-03-25 01:01:01', NULL),
+(1, 'Guilherme Augusto', 'guilherme.a.dalmeida@gmail.com', '202cb962ac59075b964b07152d234b70', 1, 1, '2016-03-25 01:01:01', NULL),
 (2, 'Kelly1', 'kelly1@celke.com.br', '202cb962ac59075b964b07152d234b70', 1, 1, '2016-03-25 02:02:02', '2016-03-27 19:22:38'),
 (3, 'Jessica', 'jessica@celke.com.br', '202cb962ac59075b964b07152d234b70', 2, 3, '2016-03-25 03:03:33', NULL),
 (4, 'Gabriely', 'gabriely@celke.com.br', '202cb962ac59075b964b07152d234b70', 1, 1, '2016-03-25 22:50:38', NULL);
